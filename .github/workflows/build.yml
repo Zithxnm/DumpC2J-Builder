@@ -139,7 +139,7 @@ jobs:
           INPUT_HARDENED: "off"
           INPUT_BYPASS: ${{ inputs.bypasscharging && 'on' || 'off' }}
           INPUT_DROIDSPACES: ${{ inputs.droidspaces && 'on' || 'off' }}
-          INPUT_HTSR: "on"
+          INPUT_HTSR: "off"
           INPUT_WIFI: "on"
           INPUT_KGSL: "on"
           INPUT_DATA: "on"
@@ -228,7 +228,7 @@ jobs:
           INPUT_ROOT: ${{ inputs.root }}
           INPUT_LTO: ${{ inputs.lto }}
           INPUT_HARDENED: "off"
-          INPUT_HTSR: "on"
+          INPUT_HTSR: "off"
           INPUT_WIFI: "on"
           INPUT_KGSL: "on"
           INPUT_DATA: "on"
