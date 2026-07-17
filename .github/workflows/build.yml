@@ -127,7 +127,7 @@ jobs:
         run: |
           git clone --depth=50 \
             --branch main \
-            https://${{ secrets.GH_TOKEN }}@github.com/adennnqt/DumpC2J-Kernel \
+            https://${{ secrets.GH_TOKEN }}@github.com/Zithxnm/DumpC2J-Kernel \
             kernel-source
 
       - name: Parse Inputs
