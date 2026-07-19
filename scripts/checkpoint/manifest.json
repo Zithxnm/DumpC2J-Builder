@@ -8,7 +8,7 @@
     "bad": []
   },
   "resukisu_susfs": {
-    "good": "aa32736680c91705ef68ab634cf276a7c42612d4",
+    "good": "930f61a654f35b98577e5da781fb30f9a1bc678b",
     "bad": []
   },
   "ksunext_root": {
@@ -16,7 +16,7 @@
     "bad": []
   },
   "ksunext_susfs": {
-    "good": "d1754d8cc12f05e18406171cbd1bc32cc2930d1b",
+    "good": "706413e0ddd0ed644b55b7e60397546d4ea57257",
     "bad": []
   },
   "kowsu_root": {
@@ -31,6 +31,7 @@
     "good": "9c84408f1623d6e5d5dbaddd984a2227b091d898",
     "bad": [
       "4674397c2e20256401b5db354a697b056809ffaa",
+      "4ba9a7e0286fb072b3871bd429d87d74b249785c",
       "67602b109cf6c9abaa12c27ceebbcc05b2cdc698"
     ]
   },
